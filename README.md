@@ -6,4 +6,4 @@ Tu trouveras ici quelques projets publics mis à disposition des apprenants avec
 
 🔗 [Portfolio](https://wolff-kevin.fr) | 📰 [Linkedin](https://www.linkedin.com/in/wolff-kevin) | 🌾 [Malt](https://www.malt.fr/profile/kevinwolff)
 
-📚 J’ai compilé et partagé mes supports techniques de formation ici : 🔗 [notion.wolff-kevin.fr](notion.wolff-kevin.fr)
+📚 J’ai compilé et partagé mes supports techniques de formation ici : 🔗 [notion.wolff-kevin.fr](https://notion.wolff-kevin.fr)
